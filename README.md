@@ -1,3 +1,3 @@
-Hi! I'm an artist who went back to grad school for a Digital Society degree. Right now the big project on my plate is my dissertation for that degree, (check it out at https://www.the-test-play.co.uk or the similarly named repository on this account) but watch this space for more artsy, civically minded little code projects. 
+Hi! I'm an artist who went back to grad school for a Digital Society degree. Now that I've finished the dissertation for that degree, (check it out at https://www.the-test-play.co.uk or the similarly named <a href="https://github.com/elisabethdeltoro/the-test-play">repository</a> on this account) I'm doing a data fellowship with <a href="https://github.com/bluebonnet-data">Bluebonnet Data</a>! I'll post those finished projects, where appropriate, as they wrap up. In the meantime, watch this space for more artsy, civically minded little code projects. 
 
-If you're trying to hire someone based on pure charisma and potential, I think you will love https://www.linkedin.com/in/elisabeth-del-toro
+Wanna work together? Check out my <a href="https://www.linkedin.com/in/elisabeth-del-toro">LinkedIn</a>!
