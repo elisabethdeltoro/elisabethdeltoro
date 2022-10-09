@@ -7,9 +7,10 @@ I'm Elisabeth, an artist who went back to grad school to refocus on how technolo
  - **[Responsive Web Design Certificate](https://www.freecodecamp.org/certification/elisabethsusername/responsive-web-design)** from FreeCodeCamp
  - **[Data Visualization Certificate](https://freecodecamp.org/certification/elisabethsusername/data-visualization)** from FreeCodeCamp
 
-#### Other Learning
- - **[Data Analysis with Python 10hr Video](https://www.youtube.com/watch?v=GPVsHOlRBBI&ab_channel=freeCodeCamp.org)** (finished 7/22/22)
+#### Non-Credentialled Recent Learning
+ - **[Invisible Women: Data Bias in a World Designed for Men, by Caroline Criado Pérez](https://app.thestorygraph.com/books/681ebf7e-7c19-41ad-8b07-eac511dcce8b)** (finished 10/05/22)
  - **[Select Star SQL](https://selectstarsql.com/)** (finished 9/18/22)
+  - **[Data Analysis with Python 10hr Video](https://www.youtube.com/watch?v=GPVsHOlRBBI&ab_channel=freeCodeCamp.org)** (finished 7/22/22)
  
  ### Current Projects
   - I'm working on the **[Code For America Impact Sprint with OpenColumbus](https://github.com/SCODEMeetup/cfa-impact-sprints)**. Volunteers (including me!) are mapping Columbus OH for accessibility, using GIS like OpenStreetMap and OpenSidewalks. It scratches the same itch as Tetris but with an actual tangible benefit.
