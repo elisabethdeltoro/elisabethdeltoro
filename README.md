@@ -14,6 +14,6 @@ I'm Elisabeth, an artist who went back to grad school to refocus on how technolo
  
  ### Current Projects
   - I'm working on the **[Code For America Impact Sprint with OpenColumbus](https://github.com/SCODEMeetup/cfa-impact-sprints)**. Volunteers (including me!) are mapping Columbus OH for accessibility, using GIS like OpenStreetMap and OpenSidewalks. It scratches the same itch as Tetris but with an actual tangible benefit.
-  - As a **[Bluebonnet Data](https://github.com/bluebonnet-data)** Fellow, I'm helping a political campaign solicit late-cycle donors by comparing various data sets in Python. (I'm not trying to play coy about the details, but it's a campaign, discretion is discretion, etc).
+  - As a **[Bluebonnet Data](https://github.com/bluebonnet-data)** Fellow, I'm helping a political campaign target potential voters by comparing various data sets in Python. (I'm not trying to play coy about the details, but it's a campaign, discretion is discretion, etc).
 
 Wanna work together? Check out my **[LinkedIn](https://www.linkedin.com/in/elisabeth-del-toro)**!
