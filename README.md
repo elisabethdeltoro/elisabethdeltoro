@@ -17,6 +17,7 @@ I'm Elisabeth, an artist who went to grad school to refocus on how technology im
  - **[Knightlab's SQL Murder Mystery](https://mystery.knightlab.com/)**
  - **[Invisible Women: Data Bias in a World Designed for Men, by Caroline Criado Pérez](https://app.thestorygraph.com/books/681ebf7e-7c19-41ad-8b07-eac511dcce8b)** 
  - **[Select Star SQL](https://selectstarsql.com/)** 
- - **[Tableau Full Course | 6hr Video](https://www.youtube.com/watch?v=aHaOIvR00So&ab_channel=edureka%21)**
+ - **[Harvard CS50 - Full Computer Science Course](https://www.youtube.com/watch?v=8mAITcNt710&ab_channel=freeCodeCamp.org)** 
+
 
 Wanna work together? Check out my **[LinkedIn](https://www.linkedin.com/in/elisabeth-del-toro)**!
