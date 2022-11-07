@@ -8,7 +8,7 @@ I'm Elisabeth, an artist who went to grad school to refocus on how technology im
  - **[Data Visualization Certificate](https://freecodecamp.org/certification/elisabethsusername/data-visualization)** from FreeCodeCamp
  
  ### Current Projects
-  - As a **[Bluebonnet Data](https://github.com/bluebonnet-data)** Fellow, I'm helping a political campaign target potential donors by comparing various data sets in Python. (I'm not trying to play coy about the details, but it's a campaign, discretion is discretion, etc). I also did a project with public data breaking down primary votes by county for several key races. You can check that out **[here](https://github.com/elisabethdeltoro/primary-voter-project)**!
+  - As a **[Bluebonnet Data](https://github.com/bluebonnet-data)** Fellow, I'm helping progressive political campaigns with data support. One such project used public data to break down primary votes by county for several key races. You can check that out **[here](https://github.com/elisabethdeltoro/primary-voter-project)**!
   
  ### Recent Projects
   - I just finished helping the **[Code For America Impact Sprint with OpenColumbus](https://github.com/SCODEMeetup/cfa-impact-sprints)**! Volunteers (including me) used satelite footage to map Columbus OH's pedestrian paths for accessibility, using GIS like OpenStreetMap and OpenSidewalks. My review of GIS data entry? It scratches the same itch as Tetris but with an actual tangible benefit.
