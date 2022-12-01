@@ -17,8 +17,8 @@ I'm Elisabeth, an artist who went to grad school to refocus on how technology im
 ### What I've been reading/watching
  - **[Knightlab's SQL Murder Mystery](https://mystery.knightlab.com/)**
  - **[Invisible Women: Data Bias in a World Designed for Men, by Caroline Criado Pérez](https://app.thestorygraph.com/books/681ebf7e-7c19-41ad-8b07-eac511dcce8b)** 
- - **[Select Star SQL](https://selectstarsql.com/)** 
- - **[Harvard CS50 - Full Computer Science Course](https://www.youtube.com/watch?v=8mAITcNt710&ab_channel=freeCodeCamp.org)** 
+ - **[A Field Guide to Lies, by Daniel J. Levitin](https://app.thestorygraph.com/books/328ec779-56f8-4c7e-940d-565ee93a573e)** 
+ - **[Harvard CS50 - Full Computer Science Course](https://www.youtube.com/watch?v=8mAITcNt710&ab_channel=freeCodeCamp.org)** (everything else is recently finished but I'm working my way through this very leisurely lol)
 
 
 Wanna work together? Check out my **[LinkedIn](https://www.linkedin.com/in/elisabeth-del-toro)**!
