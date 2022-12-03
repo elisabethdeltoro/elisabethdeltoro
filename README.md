@@ -9,6 +9,7 @@ I'm Elisabeth, an artist who went to grad school to refocus on how technology im
  
  ### Current Projects
  - Right now I'm on the job hunt! Projects include 800 cover letters and setting up email filters so I don't wake up to see rejections first thing every day ;) If you have a data analytics or analytics adjacent job and are looking for someone with an unorthodox background (and great table manners), please **[get in touch!](https://www.linkedin.com/in/elisabeth-del-toro)**
+ - On a more artistic note, I'm trying to figure out the difference between digital interactive theater and a video game. Is there one?? What is it?? If you know, please let me know lol.
   
  ### Recent Projects
   - As a **[Bluebonnet Data](https://github.com/bluebonnet-data)** Fellow, I got to help out progressive political campaigns with data support. One such project used public data to break down primary votes by county for several key races. You can check that out **[here](https://github.com/elisabethdeltoro/primary-voter-project)**!
