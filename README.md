@@ -9,17 +9,17 @@ I'm Elisabeth, an artist who went to grad school to refocus on how technology im
  
  ### Current Projects
  - Right now I'm on the job hunt! Projects include 800 cover letters and setting up email filters so I don't wake up to see rejections first thing every day ;) If you have a data analytics or analytics adjacent job and are looking for someone with an unorthodox background (and great table manners), please **[get in touch!](https://www.linkedin.com/in/elisabeth-del-toro)**
- - On a more artistic note, I'm trying to figure out the difference between digital interactive theater and a video game. Is there one?? What is it?? If you know, please let me know lol.
+ - On a more artistic note, I'm trying to figure out the difference between digital interactive theater and a video game. I'm in the "read every article I can find" stage of this project, but stay tuned for updates.
   
  ### Recent Projects
   - As a **[Bluebonnet Data](https://github.com/bluebonnet-data)** Fellow, I got to help out progressive political campaigns with data support. One such project used public data to break down primary votes by county for several key races. You can check that out **[here](https://github.com/elisabethdeltoro/primary-voter-project)**!
-- I just finished helping the **[Code For America Impact Sprint with OpenColumbus](https://github.com/SCODEMeetup/cfa-impact-sprints)**! Volunteers (including me) used satelite footage to map Columbus OH's pedestrian paths for accessibility, using GIS like OpenStreetMap and OpenSidewalks. My review of GIS data entry? It scratches the same itch as Tetris but with an actual tangible benefit.
+- I just finished assisting the **[Code For America Impact Sprint with OpenColumbus](https://github.com/SCODEMeetup/cfa-impact-sprints)**! Volunteers (including me) used satelite footage to map Columbus OH's pedestrian paths for accessibility, using GIS like OpenStreetMap and OpenSidewalks. My review of GIS data entry? It scratches the same itch as Tetris but with an actual tangible benefit.
 
 ### What I've been reading/watching
  - **[Knightlab's SQL Murder Mystery](https://mystery.knightlab.com/)**
  - **[Invisible Women: Data Bias in a World Designed for Men, by Caroline Criado Pérez](https://app.thestorygraph.com/books/681ebf7e-7c19-41ad-8b07-eac511dcce8b)** 
  - **[A Field Guide to Lies, by Daniel J. Levitin](https://app.thestorygraph.com/books/328ec779-56f8-4c7e-940d-565ee93a573e)** 
- - **[Harvard CS50 - Full Computer Science Course](https://www.youtube.com/watch?v=8mAITcNt710&ab_channel=freeCodeCamp.org)** (everything else is recently finished but I'm working my way through this very leisurely lol)
+ - **[Harvard CS50 - Full Computer Science Course](https://www.youtube.com/watch?v=8mAITcNt710&ab_channel=freeCodeCamp.org)** 
 
 
 Wanna work together? Check out my **[LinkedIn](https://www.linkedin.com/in/elisabeth-del-toro)**!
