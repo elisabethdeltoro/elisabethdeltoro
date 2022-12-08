@@ -13,7 +13,7 @@ I'm Elisabeth, an artist who went to grad school to refocus on how technology im
   
  ### Recent Projects
   - As a **[Bluebonnet Data](https://github.com/bluebonnet-data)** Fellow, I got to help out progressive political campaigns with data support. One such project used public data to break down primary votes by county for several key races. You can check that out **[here](https://github.com/elisabethdeltoro/primary-voter-project)**!
-- I just finished assisting the **[Code For America Impact Sprint with OpenColumbus](https://github.com/SCODEMeetup/cfa-impact-sprints)**! Volunteers (including me) used satelite footage to map Columbus OH's pedestrian paths for accessibility, using GIS like OpenStreetMap and OpenSidewalks. My review of GIS data entry? It scratches the same itch as Tetris but with an actual tangible benefit.
+- I just finished assisting the **[Code For America Impact Sprint with OpenColumbus](https://github.com/SCODEMeetup/cfa-impact-sprints)**! Volunteers (including me) used satelite footage to map Columbus OH's pedestrian paths for accessibility, using GIS like OpenStreetMap and OpenSidewalks. 
 
 ### What I've been reading/watching
  - **[Knightlab's SQL Murder Mystery](https://mystery.knightlab.com/)**
