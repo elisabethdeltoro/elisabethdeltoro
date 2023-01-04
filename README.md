@@ -9,7 +9,7 @@ I'm Elisabeth, an artist and analyst interested in how technology and statistics
  
  ### Current Projects
  - Right now I'm on the job hunt! Projects include 800 cover letters and setting up email filters so I don't wake up to see rejections first thing every day ;) If you have a data analytics or analytics adjacent job and are looking for someone with an unorthodox background (and great table manners), please **[get in touch!](https://www.linkedin.com/in/elisabeth-del-toro)**
- - I've just wrapped some end-of-year web analytics packets for various international charities with the United Nations Volunteers! These are less show-off-my-code projects and more make-numbers-into-actionable-information-for-overworked-non-profit-employees projects, so they'll be showcased on my **[LinkedIn](https://www.linkedin.com/in/elisabeth-del-toro)**. 
+ - I've just wrapped some end-of-year web analytics packets for various international charities with the United Nations Volunteers! These are less show-off-my-code projects and more make-numbers-into-actionable-information-for-overworked-non-profit-employees projects, so they're showcased in my **[Code-free Project Respository](https://github.com/elisabethdeltoro/code-free-projects)**. 
  - On a more artistic note, I'm trying to figure out the difference between digital interactive theater and a video game. I'm thinking the key is a closer examination of site-specific theater (pun)... Stay tuned for updates!
   
  ### Recent Projects
