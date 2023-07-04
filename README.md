@@ -1,5 +1,5 @@
 ## ✨ Hi! ✨
-I'm Elisabeth, an artist and analyst interested in how technology and statistics can improve lives. Last year I wrapped up a master's degree (check my dissertation project out at **[the-test-play.co.uk](https://www.the-test-play.co.uk)** or the similarly named **[repository](https://github.com/elisabethdeltoro/the-test-play)** on this account). Now, I'm refocusing on more artsy, civically minded projects. My specialties are large data set analytics and visualizations.
+I'm Elisabeth, an artist and analyst interested in how technology and statistics can improve lives. If you're looking for a one project summary of my interests and abilities you can check out my master's dissertation project at **[the-test-play.co.uk](https://www.the-test-play.co.uk)** or the similarly named **[repository](https://github.com/elisabethdeltoro/the-test-play)** on this account. I'm always looking to join more artsy, civically minded projects. My specialties are large data set analytics and visualizations.
 
 ### Credentials
  - <b>Master of Science</b> in Digital Society and Social Change from the University of Glasgow</br>
@@ -8,7 +8,7 @@ I'm Elisabeth, an artist and analyst interested in how technology and statistics
  - **[Data Visualization Certificate](https://freecodecamp.org/certification/elisabethsusername/data-visualization)** from FreeCodeCamp
  
  ### Current Projects
- - I just started a new job as Analytics Manager with **[Project Pulso](https://projectpulso.org/)**! I'm excited to dig into front facing analytics and use my love of spreadsheets to further Pulso's important mission.
+ - I work as the Analytics Manager with **[Project Pulso](https://projectpulso.org/)**! I'm delighted to use my love of spreadsheets to further Pulso's important mission.
  - On a more artistic note, I'm trying to figure out the difference between digital interactive theater and a video game. I'm thinking the key is a closer examination of site-specific theater (pun)... Stay tuned for updates!
   
  ### Recent Projects
