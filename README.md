@@ -1,7 +1,7 @@
 ## ✨ Hi! ✨
 I'm Elisabeth, an artist and analyst interested in how technology and statistics can improve lives. If you're looking for a one project summary of my interests and abilities you can check out my master's dissertation project at **[the-test-play.netlify.app/](https://the-test-play.netlify.app/)** or the similarly named **[repository](https://github.com/elisabethdeltoro/the-test-play)** on this account. Please feel free to reach out if you'd like to collaborate! I'm always looking to join more artsy or civically-minded projects.
 
-I like to use what is public here on github as my data portfolio. However, as often happens when one moves from learning data analytics to working in data analytics, a lot of the best showcases of my skills are using proprietary data. However, if there's something you'd like to see, let me know! 
+I like to use what is public here on github as my data portfolio. However, as often happens when one moves from learning data analytics to working in data analytics, a lot of the best showcases of my skills are using proprietary data. That said, if there's something you'd like to see, let me know! 
 
 ### Credentials
  - <b>Master of Science</b> in Digital Society and Social Change from the University of Glasgow</br>
