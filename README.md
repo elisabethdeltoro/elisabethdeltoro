@@ -9,9 +9,9 @@ I like to use what is public here on github as my data portfolio. However, as of
  - **[Responsive Web Design Certificate](https://www.freecodecamp.org/certification/elisabethsusername/responsive-web-design)** from FreeCodeCamp
  - **[Data Visualization Certificate](https://freecodecamp.org/certification/elisabethsusername/data-visualization)** from FreeCodeCamp
  
- ### Current Projects
- - I work as the Product and Analytics Manager at  **[Project Pulso](https://projectpulso.org/)**! I've learned so much about social media data and qualitative analysis since joining the team early 2023. I look forward to learning even more as we expand into new data streams for our GOTV campaign this year!
- - Like everyone else with an eye towards longevity, I'm trying to get a better grasp on machine learning. And not in a "how do I get chat gpt to write my emails for me" kind of way. Stay tuned for some new certs on the horizon!
+ ### Current Updates
+ - I work as the Product and Analytics Manager at  **[Project Pulso](https://projectpulso.org/)**! I've learned so much about social media data and qualitative analysis since joining the team early 2023. I look forward to learning even more as we expand into new data streams for our GOTV campaigns!
+
  
  ### Previous Projects
   - As a **[Bluebonnet Data](https://github.com/bluebonnet-data)** Fellow, I got to help out progressive political campaigns with data support. One such project used public data to break down primary votes by county for several key races. You can check that out **[here](https://github.com/elisabethdeltoro/primary-voter-project)**!
